@@ -9,8 +9,7 @@ public class CPersonaNueva implements PersonaNueva {
 
     private String nombre;
     private int edad;
-
-    
+   
     
     @Override
     public String getNombre() {
