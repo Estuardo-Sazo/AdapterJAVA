@@ -8,7 +8,7 @@ import java.util.GregorianCalendar;
  * @author Jaime Sazo
  */
 public class AdapterVieja_Nueva implements PersonaNueva{
-    private PersonaVieja personaV;
+    private PersonaVieja personaV; //Lamar interfaz
 
     public AdapterVieja_Nueva(PersonaVieja personaV) {
         this.personaV = personaV;
